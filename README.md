@@ -22,8 +22,7 @@ VM- Remote Desktop- HR Group Creation: <br/>
 
 <p align="center">
  <br/>
-<img src="
-https://github.com/RoniBonJoniCyber/screenshots-images/blob/c5b68327339ad973dc2c403bea4f2f1e9230289b/08-26-VM-HR%20group-creation--4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/RoniBonJoniCyber/screenshots-images/blob/c5b68327339ad973dc2c403bea4f2f1e9230289b/08-26-VM-HR%20group-creation--4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <p align="center">
