@@ -14,3 +14,9 @@ Virtual Machine Deployment Complete: <br/>
 <br />
 
 
+<p align="center">
+VM- Remote Desktop- HR Group Creation: <br/>
+<img src="https://github.com/RoniBonJoniCyber/screenshots-images/blob/c5b68327339ad973dc2c403bea4f2f1e9230289b/08-26-VM-group-creation--3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
